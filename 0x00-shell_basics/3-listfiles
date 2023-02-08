@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD:0x00-shell_basics/3-listfiles
 ls -l
+=======
+cd ~
+>>>>>>> 705244bf7bdbecc2e5212fbd44caf1eceaaac4b3:0x00-shell_basics/2-bring_me_home
